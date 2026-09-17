@@ -115,7 +115,7 @@ Provides the Streamlit interface where users upload documents and interact with 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DocMate.git
+git clone https://github.com/WitcherAhmed/DocMate.git
 cd DocMate
 ```
 
