@@ -263,6 +263,7 @@ The project focuses on building an end-to-end AI application rather than only ex
 Try DocMate here:
 
 **https://docmate.streamlit.app/**
+<img width="1893" height="907" alt="Screenshot 2026-09-17 002734" src="https://github.com/user-attachments/assets/7fd35c7b-88a7-4ba3-98b6-199bb2c2734b" />
 
 ---
 
